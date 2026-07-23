@@ -34,15 +34,8 @@ I study how uncertainty, flexibility, and strategic interaction shape investment
 </div>
 :::
 
-::: {.hero-mark aria-hidden="true"}
-<div class="mark-ring ring-one"></div>
-<div class="mark-ring ring-two"></div>
-<div class="mark-axis axis-x"></div>
-<div class="mark-axis axis-y"></div>
-<div class="mark-curve"></div>
-<span class="mark-label label-v">V</span>
-<span class="mark-label label-x">X</span>
-<span class="mark-label label-star">x*</span>
+::: {.hero-portrait}
+<img src="assets/artur-rodrigues.jpeg" alt="Portrait of Artur Rodrigues">
 :::
 :::
 
