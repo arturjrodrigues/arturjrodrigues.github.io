@@ -1,0 +1,152 @@
+---
+title: "Artur Rodrigues"
+pagetitle: "Artur Rodrigues | Professor of Finance"
+page-layout: full
+toc: false
+title-block-style: none
+---
+
+<style>
+#title-block-header { display: none; }
+</style>
+
+::: {.hero}
+::: {.hero-copy}
+<p class="eyebrow">Finance · Real Options · Corporate Decisions</p>
+
+# Decisions under uncertainty.
+
+I study how uncertainty, flexibility, and strategic interaction shape investment, financing, and corporate control.
+
+<div class="hero-actions">
+<a class="btn btn-primary" href="research.html">Explore my research</a>
+<a class="btn btn-outline" href="https://www.dropbox.com/s/y7h5ue6fbol492u/Artur%20Rodrigues%20cv.pdf?dl=0">Download CV</a>
+</div>
+
+<div class="profile-links">
+<a href="https://scholar.google.com/citations?user=E4sUQh0AAAAJ&hl=en">Google Scholar</a>
+<span>·</span>
+<a href="https://orcid.org/0000-0002-7279-4490">ORCID</a>
+<span>·</span>
+<a href="https://ssrn.com/author=579397">SSRN</a>
+<span>·</span>
+<a href="mailto:ajrodrigues@fep.up.pt">Email</a>
+</div>
+:::
+
+::: {.hero-mark aria-hidden="true"}
+<div class="mark-ring ring-one"></div>
+<div class="mark-ring ring-two"></div>
+<div class="mark-axis axis-x"></div>
+<div class="mark-axis axis-y"></div>
+<div class="mark-curve"></div>
+<span class="mark-label label-v">V</span>
+<span class="mark-label label-x">X</span>
+<span class="mark-label label-star">x*</span>
+:::
+:::
+
+::: {.content-wrap}
+::: {.intro-grid}
+::: {.intro-lead}
+## Researching consequential choices
+
+My work sits at the intersection of corporate finance and real options. I develop models of investment timing, capital structure, mergers and acquisitions, regulation, and managerial incentives.
+:::
+
+::: {.intro-meta}
+<div class="stat"><strong>24</strong><span>peer-reviewed publications</span></div>
+<div class="stat"><strong>4</strong><span>core research themes</span></div>
+<div class="stat"><strong>2007–25</strong><span>publication record</span></div>
+:::
+:::
+
+## Recent research
+
+::: {.research-cards}
+::: {.research-card}
+<span class="paper-year">2025</span>
+
+### Investment and leverage decisions under caps and floors
+
+*International Review of Financial Analysis* 97, 103857.
+
+[View publication →](https://doi.org/10.1016/j.irfa.2024.103857)
+:::
+
+::: {.research-card}
+<span class="paper-year">2023</span>
+
+### Dynamic choice between mergers and tender offers
+
+With E. Lukas and P. J. Pereira. *Journal of Corporate Finance* 83, 102489.
+
+[View publication →](https://doi.org/10.1016/j.jcorpfin.2023.102489)
+:::
+
+::: {.research-card}
+<span class="paper-year">2022</span>
+
+### Investment timing, capacity choice, floors and ceilings
+
+With D. Paxson and P. J. Pereira. *Journal of Economic Dynamics and Control* 139, 104430.
+
+[View publication →](https://doi.org/10.1016/j.jedc.2022.104430)
+:::
+:::
+
+<div class="section-cta">
+<a href="research.html">See the complete publication record <span>→</span></a>
+</div>
+
+## Research themes
+
+::: {.theme-grid}
+::: {.theme-item}
+<span class="theme-number">01</span>
+
+### Real options
+
+Investment timing, capacity choice, operating flexibility, and decision-making under uncertainty.
+:::
+
+::: {.theme-item}
+<span class="theme-number">02</span>
+
+### Corporate finance
+
+The interaction between investment policy, leverage, managerial incentives, and firm value.
+:::
+
+::: {.theme-item}
+<span class="theme-number">03</span>
+
+### Mergers & acquisitions
+
+Deal structure, strategic competition, bargaining, tender offers, and toehold acquisitions.
+:::
+
+::: {.theme-item}
+<span class="theme-number">04</span>
+
+### Policy & regulation
+
+Price guarantees, subsidies, regulatory uncertainty, and public–private investment.
+:::
+:::
+
+::: {.affiliation-band}
+::: {.affiliation-copy}
+<p class="eyebrow">Current position</p>
+
+## Professor of Finance
+
+[School of Economics and Management](https://www.up.pt/fep/en/), University of Porto
+:::
+
+::: {.affiliation-location}
+Porto, Portugal  
+[Get in touch →](about.html#contact)
+:::
+:::
+:::

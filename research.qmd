@@ -1,0 +1,315 @@
+---
+title: "Research"
+subtitle: "Publications in real options, corporate finance, M&A, and investment under uncertainty."
+page-layout: article
+toc-title: "On this page"
+---
+
+::: {.research-profile}
+My research examines decisions that are difficult to reverse: when firms invest, how they finance those investments, and how regulation or strategic interaction changes the value of waiting.
+
+<div class="profile-links">
+<a href="https://scholar.google.com/citations?user=E4sUQh0AAAAJ&hl=en">Google Scholar</a>
+<span>·</span>
+<a href="https://orcid.org/0000-0002-7279-4490">ORCID</a>
+<span>·</span>
+<a href="https://www.scopus.com/authid/detail.url?authorId=24399735500">Scopus</a>
+<span>·</span>
+<a href="https://ssrn.com/author=579397">SSRN</a>
+<span>·</span>
+<a href="https://www.researcherid.com/rid/A-1098-2009">ResearcherID</a>
+</div>
+:::
+
+## Publications
+
+::: {.publication-list}
+::: {.publication}
+<span class="pub-year">2025</span>
+<div>
+
+### Investment and leverage decisions under caps and floors
+
+**Artur Rodrigues.** *International Review of Financial Analysis* 97, 103857.
+
+[DOI](https://doi.org/10.1016/j.irfa.2024.103857)
+</div>
+:::
+
+::: {.publication}
+<span class="pub-year">2023</span>
+<div>
+
+### On the determinants of the dynamic choice between mergers and tender offers
+
+**Erik Lukas, Pedro J. Pereira, and Artur Rodrigues.** *Journal of Corporate Finance* 83, 102489.
+
+[DOI](https://doi.org/10.1016/j.jcorpfin.2023.102489)
+</div>
+:::
+
+::: {.publication}
+<span class="pub-year">2022</span>
+<div>
+
+### Optimal price subsidies under uncertainty
+
+**Luís Barbosa, Artur Rodrigues, and Adélio Sardinha.** *European Journal of Operational Research* 303(1), 471–479.
+
+[DOI](https://doi.org/10.1016/j.ejor.2022.02.024)
+</div>
+:::
+
+::: {.publication}
+<span class="pub-year">2022</span>
+<div>
+
+### Investment timing, capacity choice and optimal floors and ceilings
+
+**Dean Paxson, Pedro J. Pereira, and Artur Rodrigues.** *Journal of Economic Dynamics and Control* 139, 104430.
+
+[DOI](https://doi.org/10.1016/j.jedc.2022.104430)
+</div>
+:::
+
+::: {.publication}
+<span class="pub-year">2021</span>
+<div>
+
+### Optimal timing and capacity choice with taxes and subsidies under uncertainty
+
+**Alcino Azevedo, Pedro J. Pereira, and Artur Rodrigues.** *Omega* 102, 102312.
+
+[DOI](https://doi.org/10.1016/j.omega.2020.102312)
+</div>
+:::
+
+::: {.publication}
+<span class="pub-year">2021</span>
+<div>
+
+### Toehold acquisitions as option games
+
+**João Lacerda, Pedro J. Pereira, and Artur Rodrigues.** *Economics Letters* 209, 110093.
+
+[DOI](https://doi.org/10.1016/j.econlet.2021.110093)
+</div>
+:::
+
+::: {.publication}
+<span class="pub-year">2020</span>
+<div>
+
+### Feed-in tariff contract schemes and regulatory uncertainty
+
+**Luís Barbosa, Cláudia Nunes, Artur Rodrigues, and Adélio Sardinha.** *European Journal of Operational Research* 287(1), 331–347.
+
+[DOI](https://doi.org/10.1016/j.ejor.2020.04.054)
+</div>
+:::
+
+::: {.publication}
+<span class="pub-year">2019</span>
+<div>
+
+### Investment decisions with finite-lived collars
+
+**Roger Adkins, Dean Paxson, Pedro J. Pereira, and Artur Rodrigues.** *Journal of Economic Dynamics and Control* 103, 185–204.
+
+[DOI](https://doi.org/10.1016/j.jedc.2019.04.008)
+</div>
+:::
+
+::: {.publication}
+<span class="pub-year">2019</span>
+<div>
+
+### Foreign direct investment with tax holidays and policy uncertainty
+
+**Alcino Azevedo, Pedro J. Pereira, and Artur Rodrigues.** *International Journal of Finance & Economics* 24(2), 727–739.
+
+[DOI](https://doi.org/10.1002/ijfe.1688)
+</div>
+:::
+
+::: {.publication}
+<span class="pub-year">2019</span>
+<div>
+
+### Designing optimal M&A strategies under uncertainty
+
+**Erik Lukas, Pedro J. Pereira, and Artur Rodrigues.** *Journal of Economic Dynamics and Control* 104, 1–20.
+
+[DOI](https://doi.org/10.1016/j.jedc.2019.04.006)
+</div>
+:::
+
+::: {.publication}
+<span class="pub-year">2019</span>
+<div>
+
+### Investing in a random start American option under competition
+
+**Pedro J. Pereira and Artur Rodrigues.** *Finance Research Letters* 28, 388–397.
+
+[DOI](https://doi.org/10.1016/j.frl.2018.06.013)
+</div>
+:::
+
+::: {.publication}
+<span class="pub-year">2019</span>
+<div>
+
+### Bargaining merger terms and the effect on the announcement returns
+
+**Pedro J. Pereira and Artur Rodrigues.** *International Review of Economics & Finance* 59, 510–521.
+
+[DOI](https://doi.org/10.1016/j.iref.2018.10.015)
+</div>
+:::
+
+::: {.publication}
+<span class="pub-year">2018</span>
+<div>
+
+### Feed-in tariffs with minimum price guarantees and regulatory uncertainty
+
+**Luís Barbosa, Paulo Ferrão, Artur Rodrigues, and Adélio Sardinha.** *Energy Economics* 72, 517–541.
+
+[DOI](https://doi.org/10.1016/j.eneco.2018.04.028)
+</div>
+:::
+
+::: {.publication}
+<span class="pub-year">2018</span>
+<div>
+
+### Non-compete covenants, litigation and garden leaves
+
+**Alcino Azevedo, Pedro J. Pereira, and Artur Rodrigues.** *Journal of Business Research* 88, 197–211.
+
+[DOI](https://doi.org/10.1016/j.jbusres.2018.03.020)
+</div>
+:::
+
+::: {.publication}
+<span class="pub-year">2016</span>
+<div>
+
+### Non-competition covenants in acquisition deals
+
+**Alcino Azevedo, Pedro J. Pereira, and Artur Rodrigues.** *Economics Letters* 143, 61–65.
+
+[DOI](https://doi.org/10.1016/j.econlet.2016.03.025)
+</div>
+:::
+
+::: {.publication}
+<span class="pub-year">2014</span>
+<div>
+
+### Discrete dividends and the FTSE-100 index options valuation
+
+**Nelson Areal and Artur Rodrigues.** *Quantitative Finance* 14(10), 1765–1784.
+
+[DOI](https://doi.org/10.1080/14697688.2011.618457)
+</div>
+:::
+
+::: {.publication}
+<span class="pub-year">2014</span>
+<div>
+
+### Investment decisions in finite-lived monopolies
+
+**Pedro J. Pereira and Artur Rodrigues.** *Journal of Economic Dynamics and Control* 46, 219–236.
+
+[DOI](https://doi.org/10.1016/j.jedc.2014.07.003)
+</div>
+:::
+
+::: {.publication}
+<span class="pub-year">2013</span>
+<div>
+
+### Fast trees for options with discrete dividends
+
+**Nelson Areal and Artur Rodrigues.** *Journal of Derivatives* 21(1), 49–63.
+
+[DOI](https://doi.org/10.3905/jod.2013.21.1.049)
+</div>
+:::
+
+::: {.publication}
+<span class="pub-year">2013</span>
+<div>
+
+### Optimal investment with two-factor uncertainty
+
+**Manuel R. Armada, Pedro J. Pereira, and Artur Rodrigues.** *Mathematics and Financial Economics* 7(4), 509–530.
+
+[DOI](https://doi.org/10.1007/s11579-013-0101-1)
+</div>
+:::
+
+::: {.publication}
+<span class="pub-year">2012</span>
+<div>
+
+### Optimal subsidies and guarantees in public-private partnerships
+
+**Manuel R. Armada, Pedro J. Pereira, and Artur Rodrigues.** *European Journal of Finance* 18(5), 469–495.
+
+[DOI](https://doi.org/10.1080/1351847X.2011.639789)
+</div>
+:::
+
+::: {.publication}
+<span class="pub-year">2010</span>
+<div>
+
+### On the dangers of a simplistic American option simulation valuation method
+
+**Nelson Areal and Artur Rodrigues.** *European Journal of Finance* 16(4), 373–379.
+
+[DOI](https://doi.org/10.1080/13518470903314428)
+</div>
+:::
+
+::: {.publication}
+<span class="pub-year">2008</span>
+<div>
+
+### On improving the least squares Monte Carlo option valuation method
+
+**Nelson Areal, Artur Rodrigues, and Manuel R. Armada.** *Review of Derivatives Research* 11(1–2), 119–151.
+
+[DOI](https://doi.org/10.1007/s11147-008-9026-x)
+</div>
+:::
+
+::: {.publication}
+<span class="pub-year">2008</span>
+<div>
+
+### Evaluating student allocation in the Portuguese public higher education system
+
+**Miguel Portela, Nelson Areal, Carla Sá, Fernando Alexandre, Hugo Cerejeira, Ana Carvalho, and Artur Rodrigues.** *Higher Education* 56(2), 185–203.
+
+[DOI](https://doi.org/10.1007/s10734-007-9097-x)
+</div>
+:::
+
+::: {.publication}
+<span class="pub-year">2007</span>
+<div>
+
+### The valuation of modular projects: A real options approach to the value of splitting
+
+**Artur Rodrigues and Manuel J. R. Armada.** *Global Finance Journal* 18(2), 205–227.
+
+[DOI](https://doi.org/10.1016/j.gfj.2006.10.002)
+</div>
+:::
+:::
+

@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Artur Rodrigues"
+  site-url: "https://arturjrodrigues.github.io"
+  description: "Artur Rodrigues — Professor of Finance at the University of Porto. Research on real options, corporate finance, M&A, and investment under uncertainty."
+  favicon: assets/favicon.svg
+  open-graph: true
+  twitter-card: true
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    pinned: true
+    title: "Artur Rodrigues"
+    left:
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "About"
+        href: about.qmd
+    right:
+      - icon: mortarboard-fill
+        href: "https://scholar.google.com/citations?user=E4sUQh0AAAAJ&hl=en"
+        aria-label: "Google Scholar"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/artur-rodrigues-5bb756164"
+        aria-label: "LinkedIn"
+      - icon: file-earmark-person
+        href: "https://www.dropbox.com/s/y7h5ue6fbol492u/Artur%20Rodrigues%20cv.pdf?dl=0"
+        aria-label: "Curriculum Vitae"
+  page-footer:
+    left: "© 2026 Artur Rodrigues"
+    center: "Professor of Finance · University of Porto"
+    right:
+      - text: "Email"
+        href: "mailto:ajrodrigues@fep.up.pt"
+      - text: "ORCID"
+        href: "https://orcid.org/0000-0002-7279-4490"
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: true
+    toc-location: right
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    code-copy: true
+
+execute:
+  freeze: auto
+
