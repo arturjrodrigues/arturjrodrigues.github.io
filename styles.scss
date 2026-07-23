@@ -225,7 +225,7 @@ a {
 
 .hero-portrait {
   position: relative;
-  width: min(100%, 390px);
+  width: min(100%, 370px);
   justify-self: end;
   isolation: isolate;
 }
@@ -233,8 +233,9 @@ a {
 .hero-portrait::before {
   content: "";
   position: absolute;
-  inset: -1.25rem 1.25rem 1.25rem -1.25rem;
+  inset: -1.1rem;
   border: 1px solid rgba(237, 189, 114, 0.55);
+  border-radius: 50%;
   z-index: -1;
 }
 
@@ -245,9 +246,11 @@ a {
 .hero-portrait img {
   display: block;
   width: 100%;
-  aspect-ratio: 3 / 4;
+  aspect-ratio: 1;
   object-fit: cover;
-  object-position: center;
+  object-position: center 32%;
+  border: 6px solid rgba(255, 255, 255, 0.12);
+  border-radius: 50%;
   box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.28);
 }
 
