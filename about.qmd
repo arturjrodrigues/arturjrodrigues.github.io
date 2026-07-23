@@ -1,0 +1,67 @@
+---
+title: "About"
+subtitle: "Academic background and contact information."
+page-layout: article
+toc: false
+---
+
+::: {.about-grid}
+::: {.about-main}
+## Biography
+
+Artur Rodrigues is Professor of Finance at the [School of Economics and Management](https://www.up.pt/fep/en/) (FEP), University of Porto.
+
+His research focuses on real options, option valuation, mergers and acquisitions, managerial compensation, and corporate decisions under uncertainty.
+
+<a class="btn btn-primary" href="https://www.dropbox.com/s/y7h5ue6fbol492u/Artur%20Rodrigues%20cv.pdf?dl=0">Curriculum Vitae</a>
+:::
+
+::: {.credentials}
+<p class="eyebrow">Academic qualifications</p>
+
+<div class="credential">
+<strong>Habilitation</strong>
+<span>Business Administration · University of Minho, 2017</span>
+</div>
+
+<div class="credential">
+<strong>PhD</strong>
+<span>Business Administration, Finance · University of Minho, 2006</span>
+</div>
+
+<div class="credential">
+<strong>MSc</strong>
+<span>Business Administration, Corporate Finance · University of Minho, 2000</span>
+</div>
+
+<div class="credential">
+<strong>BSc</strong>
+<span>Economics · University of Porto, 1994</span>
+</div>
+:::
+:::
+
+## Contact {#contact}
+
+::: {.contact-panel}
+::: {.contact-block}
+<span class="contact-label">Email</span>
+
+[ajrodrigues@fep.up.pt](mailto:ajrodrigues@fep.up.pt)
+:::
+
+::: {.contact-block}
+<span class="contact-label">Office</span>
+
+Faculdade de Economia da Universidade do Porto  
+Rua Dr. Roberto Frias  
+4200–464 Porto, Portugal
+:::
+
+::: {.contact-block}
+<span class="contact-label">Profiles</span>
+
+[Google Scholar](https://scholar.google.com/citations?user=E4sUQh0AAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-7279-4490) · [LinkedIn](https://www.linkedin.com/in/artur-rodrigues-5bb756164)
+:::
+:::
+

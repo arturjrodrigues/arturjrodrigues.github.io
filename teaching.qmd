@@ -1,0 +1,49 @@
+---
+title: "Teaching"
+subtitle: "Finance education grounded in economic intuition, analytical discipline, and practical decision-making."
+page-layout: article
+toc: false
+---
+
+::: {.teaching-intro}
+I teach corporate finance and capital budgeting at the undergraduate level at the School of Economics and Management, University of Porto.
+:::
+
+::: {.course-grid}
+::: {.course-card}
+<span class="course-level">Bachelor in Management</span>
+
+## Capital Budgeting
+
+How firms evaluate investment opportunities when cash flows unfold over time and outcomes are uncertain.
+
+<div class="course-topics">
+<span>Investment criteria</span>
+<span>Cash-flow estimation</span>
+<span>Cost of capital</span>
+<span>Risk and flexibility</span>
+</div>
+:::
+
+::: {.course-card}
+<span class="course-level">Bachelor in Economics</span>
+
+## Corporate Finance
+
+The fundamental choices that determine how firms invest, finance operations, and distribute value.
+
+<div class="course-topics">
+<span>Valuation</span>
+<span>Capital structure</span>
+<span>Payout policy</span>
+<span>Corporate decisions</span>
+</div>
+:::
+:::
+
+::: {.teaching-note}
+## For students
+
+Course materials, assessment information, and announcements are distributed through the University of Porto's institutional learning systems.
+:::
+
