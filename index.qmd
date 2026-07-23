@@ -12,11 +12,13 @@ title-block-style: none
 
 ::: {.hero}
 ::: {.hero-copy}
-<p class="eyebrow">Finance · Real Options · Corporate Decisions</p>
+<p class="eyebrow">Professor of Finance · University of Porto</p>
 
-# Decisions under uncertainty.
+# Artur Rodrigues
 
-I study how uncertainty, flexibility, and strategic interaction shape investment, financing, and corporate control.
+<p class="hero-tagline">Decisions under uncertainty.</p>
+
+<p class="hero-description">I study how uncertainty, flexibility, and strategic interaction shape investment, financing, and corporate control.</p>
 
 <div class="hero-actions">
 <a class="btn btn-primary" href="research.html">Explore my research</a>
