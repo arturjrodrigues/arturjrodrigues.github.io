@@ -20,7 +20,7 @@ I study how uncertainty, flexibility, and strategic interaction shape investment
 
 <div class="hero-actions">
 <a class="btn btn-primary" href="research.html">Explore my research</a>
-<a class="btn btn-outline" href="https://www.dropbox.com/s/y7h5ue6fbol492u/Artur%20Rodrigues%20cv.pdf?dl=0">Download CV</a>
+<a class="btn btn-outline" href="assets/cv_artur_rodrigues_en.pdf">Download CV</a>
 </div>
 
 <div class="profile-links">

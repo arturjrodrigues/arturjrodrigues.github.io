@@ -13,7 +13,7 @@ Artur Rodrigues is Professor of Finance at the [School of Economics and Manageme
 
 His research focuses on real options, option valuation, mergers and acquisitions, managerial compensation, and corporate decisions under uncertainty.
 
-<a class="btn btn-primary" href="https://www.dropbox.com/s/y7h5ue6fbol492u/Artur%20Rodrigues%20cv.pdf?dl=0">Curriculum Vitae</a>
+<a class="btn btn-primary" href="assets/cv_artur_rodrigues_en.pdf">Curriculum Vitae</a>
 :::
 
 ::: {.credentials}
@@ -64,4 +64,3 @@ Rua Dr. Roberto Frias
 [Google Scholar](https://scholar.google.com/citations?user=E4sUQh0AAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-7279-4490) · [LinkedIn](https://www.linkedin.com/in/artur-rodrigues-5bb756164)
 :::
 :::
-

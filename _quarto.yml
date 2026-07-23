@@ -30,7 +30,7 @@ website:
         href: "https://www.linkedin.com/in/artur-rodrigues-5bb756164"
         aria-label: "LinkedIn"
       - icon: file-earmark-person
-        href: "https://www.dropbox.com/s/y7h5ue6fbol492u/Artur%20Rodrigues%20cv.pdf?dl=0"
+        href: "assets/cv_artur_rodrigues_en.pdf"
         aria-label: "Curriculum Vitae"
   page-footer:
     left: "© 2026 Artur Rodrigues"
@@ -53,4 +53,3 @@ format:
 
 execute:
   freeze: auto
-
