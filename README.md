@@ -10,5 +10,4 @@ quarto preview
 
 ## Publish
 
-Push to the `main` branch. The GitHub Actions workflow renders the site and publishes it to the `gh-pages` branch.
-
+Push to the `main` branch. The GitHub Actions workflow renders the site and deploys the generated `_site` artifact to GitHub Pages.
