@@ -1,0 +1,244 @@
+{
+  "checked_on": "2026-10-08",
+  "source": "Publisher-deposited Crossref DOI metadata",
+  "publications": [
+    {
+      "doi": "10.1016/j.irfa.2024.103857",
+      "title": "Investment and leverage decisions under caps and floors",
+      "authors": [
+        "Artur Rodrigues"
+      ],
+      "source_url": "https://api.crossref.org/works/10.1016/j.irfa.2024.103857"
+    },
+    {
+      "doi": "10.1016/j.jcorpfin.2023.102489",
+      "title": "On the determinants of the dynamic choice between mergers and tender offers",
+      "authors": [
+        "Elmar Lukas",
+        "Paulo J. Pereira",
+        "Artur Rodrigues"
+      ],
+      "source_url": "https://api.crossref.org/works/10.1016/j.jcorpfin.2023.102489"
+    },
+    {
+      "doi": "10.1016/j.ejor.2022.02.024",
+      "title": "Optimal price subsidies under uncertainty",
+      "authors": [
+        "Luciana Barbosa",
+        "Artur Rodrigues",
+        "Alberto Sardinha"
+      ],
+      "source_url": "https://api.crossref.org/works/10.1016/j.ejor.2022.02.024"
+    },
+    {
+      "doi": "10.1016/j.jedc.2022.104430",
+      "title": "Investment timing, capacity choice and optimal floors and ceilings",
+      "authors": [
+        "Dean Paxson",
+        "Paulo J. Pereira",
+        "Artur Rodrigues"
+      ],
+      "source_url": "https://api.crossref.org/works/10.1016/j.jedc.2022.104430"
+    },
+    {
+      "doi": "10.1016/j.omega.2020.102312",
+      "title": "Optimal timing and capacity choice with taxes and subsidies under uncertainty",
+      "authors": [
+        "Alcino Azevedo",
+        "Paulo J. Pereira",
+        "Artur Rodrigues"
+      ],
+      "source_url": "https://api.crossref.org/works/10.1016/j.omega.2020.102312"
+    },
+    {
+      "doi": "10.1016/j.econlet.2021.110093",
+      "title": "Toehold acquisitions as option games",
+      "authors": [
+        "José Lacerda",
+        "Paulo J. Pereira",
+        "Artur Rodrigues"
+      ],
+      "source_url": "https://api.crossref.org/works/10.1016/j.econlet.2021.110093"
+    },
+    {
+      "doi": "10.1016/j.ejor.2020.04.054",
+      "title": "Feed-in tariff contract schemes and regulatory uncertainty",
+      "authors": [
+        "Luciana Barbosa",
+        "Cláudia Nunes",
+        "Artur Rodrigues",
+        "Alberto Sardinha"
+      ],
+      "source_url": "https://api.crossref.org/works/10.1016/j.ejor.2020.04.054"
+    },
+    {
+      "doi": "10.1016/j.jedc.2019.04.008",
+      "title": "Investment decisions with finite-lived collars",
+      "authors": [
+        "Roger Adkins",
+        "Dean Paxson",
+        "Paulo J. Pereira",
+        "Artur Rodrigues"
+      ],
+      "source_url": "https://api.crossref.org/works/10.1016/j.jedc.2019.04.008"
+    },
+    {
+      "doi": "10.1002/ijfe.1688",
+      "title": "Foreign direct investment with tax holidays and policy uncertainty",
+      "authors": [
+        "Alcino Azevedo",
+        "Paulo J. Pereira",
+        "Artur Rodrigues"
+      ],
+      "source_url": "https://api.crossref.org/works/10.1002/ijfe.1688"
+    },
+    {
+      "doi": "10.1016/j.jedc.2019.04.006",
+      "title": "Designing optimal M&A strategies under uncertainty",
+      "authors": [
+        "Elmar Lukas",
+        "Paulo J. Pereira",
+        "Artur Rodrigues"
+      ],
+      "source_url": "https://api.crossref.org/works/10.1016/j.jedc.2019.04.006"
+    },
+    {
+      "doi": "10.1016/j.frl.2018.06.013",
+      "title": "Investing in a random start American option under competition",
+      "authors": [
+        "Paulo J. Pereira",
+        "Artur Rodrigues"
+      ],
+      "source_url": "https://api.crossref.org/works/10.1016/j.frl.2018.06.013"
+    },
+    {
+      "doi": "10.1016/j.iref.2018.10.015",
+      "title": "Bargaining merger terms and the effect on the announcement returns",
+      "authors": [
+        "Paulo J. Pereira",
+        "Artur Rodrigues"
+      ],
+      "source_url": "https://api.crossref.org/works/10.1016/j.iref.2018.10.015"
+    },
+    {
+      "doi": "10.1016/j.eneco.2018.04.028",
+      "title": "Feed-in tariffs with minimum price guarantees and regulatory uncertainty",
+      "authors": [
+        "Luciana Barbosa",
+        "Paulo Ferrão",
+        "Artur Rodrigues",
+        "Alberto Sardinha"
+      ],
+      "source_url": "https://api.crossref.org/works/10.1016/j.eneco.2018.04.028"
+    },
+    {
+      "doi": "10.1016/j.jbusres.2018.03.020",
+      "title": "Non-compete covenants, litigation and garden leaves",
+      "authors": [
+        "Alcino Azevedo",
+        "Paulo J. Pereira",
+        "Artur Rodrigues"
+      ],
+      "source_url": "https://api.crossref.org/works/10.1016/j.jbusres.2018.03.020"
+    },
+    {
+      "doi": "10.1016/j.econlet.2016.03.025",
+      "title": "Non-competition covenants in acquisition deals",
+      "authors": [
+        "Alcino Azevedo",
+        "Paulo J. Pereira",
+        "Artur Rodrigues"
+      ],
+      "source_url": "https://api.crossref.org/works/10.1016/j.econlet.2016.03.025"
+    },
+    {
+      "doi": "10.1080/14697688.2011.618457",
+      "title": "Discrete dividends and the FTSE-100 index options valuation",
+      "authors": [
+        "Nelson Areal",
+        "Artur Rodrigues"
+      ],
+      "source_url": "https://api.crossref.org/works/10.1080/14697688.2011.618457"
+    },
+    {
+      "doi": "10.1016/j.jedc.2014.07.003",
+      "title": "Investment decisions in finite-lived monopolies",
+      "authors": [
+        "Paulo J. Pereira",
+        "Artur Rodrigues"
+      ],
+      "source_url": "https://api.crossref.org/works/10.1016/j.jedc.2014.07.003"
+    },
+    {
+      "doi": "10.3905/jod.2013.21.1.049",
+      "title": "Fast trees for options with discrete dividends",
+      "authors": [
+        "Nelson Areal",
+        "Artur Rodrigues"
+      ],
+      "source_url": "https://api.crossref.org/works/10.3905/jod.2013.21.1.049"
+    },
+    {
+      "doi": "10.1007/s11579-013-0101-1",
+      "title": "Optimal investment with two-factor uncertainty",
+      "authors": [
+        "Manuel J. Rocha Armada",
+        "Paulo J. Pereira",
+        "Artur Rodrigues"
+      ],
+      "source_url": "https://api.crossref.org/works/10.1007/s11579-013-0101-1"
+    },
+    {
+      "doi": "10.1080/1351847X.2011.639789",
+      "title": "Optimal subsidies and guarantees in public-private partnerships",
+      "authors": [
+        "Manuel J. Rocha Armada",
+        "Paulo J. Pereira",
+        "Artur Rodrigues"
+      ],
+      "source_url": "https://api.crossref.org/works/10.1080/1351847X.2011.639789"
+    },
+    {
+      "doi": "10.1080/13518470903314428",
+      "title": "On the dangers of a simplistic American option simulation valuation method",
+      "authors": [
+        "Nelson Areal",
+        "Artur Rodrigues"
+      ],
+      "source_url": "https://api.crossref.org/works/10.1080/13518470903314428"
+    },
+    {
+      "doi": "10.1007/s11147-008-9026-x",
+      "title": "On improving the least squares Monte Carlo option valuation method",
+      "authors": [
+        "Nelson Areal",
+        "Artur Rodrigues",
+        "Manuel R. Armada"
+      ],
+      "source_url": "https://api.crossref.org/works/10.1007/s11147-008-9026-x"
+    },
+    {
+      "doi": "10.1007/s10734-007-9097-x",
+      "title": "Evaluating student allocation in the Portuguese public higher education system",
+      "authors": [
+        "Miguel Portela",
+        "Nelson Areal",
+        "Carla Sá",
+        "Fernando Alexandre",
+        "João Cerejeira",
+        "Ana Carvalho",
+        "Artur Rodrigues"
+      ],
+      "source_url": "https://api.crossref.org/works/10.1007/s10734-007-9097-x"
+    },
+    {
+      "doi": "10.1016/j.gfj.2006.10.002",
+      "title": "The valuation of modular projects: A real options approach to the value of splitting",
+      "authors": [
+        "Artur Rodrigues",
+        "Manuel J. Rocha Armada"
+      ],
+      "source_url": "https://api.crossref.org/works/10.1016/j.gfj.2006.10.002"
+    }
+  ]
+}

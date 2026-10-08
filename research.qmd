@@ -42,7 +42,7 @@ My research examines decisions that are difficult to reverse: when firms invest,
 
 ### On the determinants of the dynamic choice between mergers and tender offers
 
-**Erik Lukas, Pedro J. Pereira, and Artur Rodrigues.** *Journal of Corporate Finance* 83, 102489.
+**Elmar Lukas, Paulo J. Pereira, and Artur Rodrigues.** *Journal of Corporate Finance* 83, 102489.
 
 [DOI](https://doi.org/10.1016/j.jcorpfin.2023.102489)
 </div>
@@ -54,7 +54,7 @@ My research examines decisions that are difficult to reverse: when firms invest,
 
 ### Optimal price subsidies under uncertainty
 
-**Luís Barbosa, Artur Rodrigues, and Adélio Sardinha.** *European Journal of Operational Research* 303(1), 471–479.
+**Luciana Barbosa, Artur Rodrigues, and Alberto Sardinha.** *European Journal of Operational Research* 303(1), 471–479.
 
 [DOI](https://doi.org/10.1016/j.ejor.2022.02.024)
 </div>
@@ -66,7 +66,7 @@ My research examines decisions that are difficult to reverse: when firms invest,
 
 ### Investment timing, capacity choice and optimal floors and ceilings
 
-**Dean Paxson, Pedro J. Pereira, and Artur Rodrigues.** *Journal of Economic Dynamics and Control* 139, 104430.
+**Dean Paxson, Paulo J. Pereira, and Artur Rodrigues.** *Journal of Economic Dynamics and Control* 139, 104430.
 
 [DOI](https://doi.org/10.1016/j.jedc.2022.104430)
 </div>
@@ -78,7 +78,7 @@ My research examines decisions that are difficult to reverse: when firms invest,
 
 ### Optimal timing and capacity choice with taxes and subsidies under uncertainty
 
-**Alcino Azevedo, Pedro J. Pereira, and Artur Rodrigues.** *Omega* 102, 102312.
+**Alcino Azevedo, Paulo J. Pereira, and Artur Rodrigues.** *Omega* 102, 102312.
 
 [DOI](https://doi.org/10.1016/j.omega.2020.102312)
 </div>
@@ -90,7 +90,7 @@ My research examines decisions that are difficult to reverse: when firms invest,
 
 ### Toehold acquisitions as option games
 
-**João Lacerda, Pedro J. Pereira, and Artur Rodrigues.** *Economics Letters* 209, 110093.
+**José Lacerda, Paulo J. Pereira, and Artur Rodrigues.** *Economics Letters* 209, 110093.
 
 [DOI](https://doi.org/10.1016/j.econlet.2021.110093)
 </div>
@@ -102,7 +102,7 @@ My research examines decisions that are difficult to reverse: when firms invest,
 
 ### Feed-in tariff contract schemes and regulatory uncertainty
 
-**Luís Barbosa, Cláudia Nunes, Artur Rodrigues, and Adélio Sardinha.** *European Journal of Operational Research* 287(1), 331–347.
+**Luciana Barbosa, Cláudia Nunes, Artur Rodrigues, and Alberto Sardinha.** *European Journal of Operational Research* 287(1), 331–347.
 
 [DOI](https://doi.org/10.1016/j.ejor.2020.04.054)
 </div>
@@ -114,7 +114,7 @@ My research examines decisions that are difficult to reverse: when firms invest,
 
 ### Investment decisions with finite-lived collars
 
-**Roger Adkins, Dean Paxson, Pedro J. Pereira, and Artur Rodrigues.** *Journal of Economic Dynamics and Control* 103, 185–204.
+**Roger Adkins, Dean Paxson, Paulo J. Pereira, and Artur Rodrigues.** *Journal of Economic Dynamics and Control* 103, 185–204.
 
 [DOI](https://doi.org/10.1016/j.jedc.2019.04.008)
 </div>
@@ -126,7 +126,7 @@ My research examines decisions that are difficult to reverse: when firms invest,
 
 ### Foreign direct investment with tax holidays and policy uncertainty
 
-**Alcino Azevedo, Pedro J. Pereira, and Artur Rodrigues.** *International Journal of Finance & Economics* 24(2), 727–739.
+**Alcino Azevedo, Paulo J. Pereira, and Artur Rodrigues.** *International Journal of Finance & Economics* 24(2), 727–739.
 
 [DOI](https://doi.org/10.1002/ijfe.1688)
 </div>
@@ -138,7 +138,7 @@ My research examines decisions that are difficult to reverse: when firms invest,
 
 ### Designing optimal M&A strategies under uncertainty
 
-**Erik Lukas, Pedro J. Pereira, and Artur Rodrigues.** *Journal of Economic Dynamics and Control* 104, 1–20.
+**Elmar Lukas, Paulo J. Pereira, and Artur Rodrigues.** *Journal of Economic Dynamics and Control* 104, 1–20.
 
 [DOI](https://doi.org/10.1016/j.jedc.2019.04.006)
 </div>
@@ -150,7 +150,7 @@ My research examines decisions that are difficult to reverse: when firms invest,
 
 ### Investing in a random start American option under competition
 
-**Pedro J. Pereira and Artur Rodrigues.** *Finance Research Letters* 28, 388–397.
+**Paulo J. Pereira and Artur Rodrigues.** *Finance Research Letters* 28, 388–397.
 
 [DOI](https://doi.org/10.1016/j.frl.2018.06.013)
 </div>
@@ -162,7 +162,7 @@ My research examines decisions that are difficult to reverse: when firms invest,
 
 ### Bargaining merger terms and the effect on the announcement returns
 
-**Pedro J. Pereira and Artur Rodrigues.** *International Review of Economics & Finance* 59, 510–521.
+**Paulo J. Pereira and Artur Rodrigues.** *International Review of Economics & Finance* 59, 510–521.
 
 [DOI](https://doi.org/10.1016/j.iref.2018.10.015)
 </div>
@@ -174,7 +174,7 @@ My research examines decisions that are difficult to reverse: when firms invest,
 
 ### Feed-in tariffs with minimum price guarantees and regulatory uncertainty
 
-**Luís Barbosa, Paulo Ferrão, Artur Rodrigues, and Adélio Sardinha.** *Energy Economics* 72, 517–541.
+**Luciana Barbosa, Paulo Ferrão, Artur Rodrigues, and Alberto Sardinha.** *Energy Economics* 72, 517–541.
 
 [DOI](https://doi.org/10.1016/j.eneco.2018.04.028)
 </div>
@@ -186,7 +186,7 @@ My research examines decisions that are difficult to reverse: when firms invest,
 
 ### Non-compete covenants, litigation and garden leaves
 
-**Alcino Azevedo, Pedro J. Pereira, and Artur Rodrigues.** *Journal of Business Research* 88, 197–211.
+**Alcino Azevedo, Paulo J. Pereira, and Artur Rodrigues.** *Journal of Business Research* 88, 197–211.
 
 [DOI](https://doi.org/10.1016/j.jbusres.2018.03.020)
 </div>
@@ -198,7 +198,7 @@ My research examines decisions that are difficult to reverse: when firms invest,
 
 ### Non-competition covenants in acquisition deals
 
-**Alcino Azevedo, Pedro J. Pereira, and Artur Rodrigues.** *Economics Letters* 143, 61–65.
+**Alcino Azevedo, Paulo J. Pereira, and Artur Rodrigues.** *Economics Letters* 143, 61–65.
 
 [DOI](https://doi.org/10.1016/j.econlet.2016.03.025)
 </div>
@@ -222,7 +222,7 @@ My research examines decisions that are difficult to reverse: when firms invest,
 
 ### Investment decisions in finite-lived monopolies
 
-**Pedro J. Pereira and Artur Rodrigues.** *Journal of Economic Dynamics and Control* 46, 219–236.
+**Paulo J. Pereira and Artur Rodrigues.** *Journal of Economic Dynamics and Control* 46, 219–236.
 
 [DOI](https://doi.org/10.1016/j.jedc.2014.07.003)
 </div>
@@ -246,7 +246,7 @@ My research examines decisions that are difficult to reverse: when firms invest,
 
 ### Optimal investment with two-factor uncertainty
 
-**Manuel R. Armada, Pedro J. Pereira, and Artur Rodrigues.** *Mathematics and Financial Economics* 7(4), 509–530.
+**Manuel J. Rocha Armada, Paulo J. Pereira, and Artur Rodrigues.** *Mathematics and Financial Economics* 7(4), 509–530.
 
 [DOI](https://doi.org/10.1007/s11579-013-0101-1)
 </div>
@@ -258,7 +258,7 @@ My research examines decisions that are difficult to reverse: when firms invest,
 
 ### Optimal subsidies and guarantees in public-private partnerships
 
-**Manuel R. Armada, Pedro J. Pereira, and Artur Rodrigues.** *European Journal of Finance* 18(5), 469–495.
+**Manuel J. Rocha Armada, Paulo J. Pereira, and Artur Rodrigues.** *European Journal of Finance* 18(5), 469–495.
 
 [DOI](https://doi.org/10.1080/1351847X.2011.639789)
 </div>
@@ -294,7 +294,7 @@ My research examines decisions that are difficult to reverse: when firms invest,
 
 ### Evaluating student allocation in the Portuguese public higher education system
 
-**Miguel Portela, Nelson Areal, Carla Sá, Fernando Alexandre, Hugo Cerejeira, Ana Carvalho, and Artur Rodrigues.** *Higher Education* 56(2), 185–203.
+**Miguel Portela, Nelson Areal, Carla Sá, Fernando Alexandre, João Cerejeira, Ana Carvalho, and Artur Rodrigues.** *Higher Education* 56(2), 185–203.
 
 [DOI](https://doi.org/10.1007/s10734-007-9097-x)
 </div>
@@ -306,10 +306,9 @@ My research examines decisions that are difficult to reverse: when firms invest,
 
 ### The valuation of modular projects: A real options approach to the value of splitting
 
-**Artur Rodrigues and Manuel J. R. Armada.** *Global Finance Journal* 18(2), 205–227.
+**Artur Rodrigues and Manuel J. Rocha Armada.** *Global Finance Journal* 18(2), 205–227.
 
 [DOI](https://doi.org/10.1016/j.gfj.2006.10.002)
 </div>
 :::
 :::
-
